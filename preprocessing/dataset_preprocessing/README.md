@@ -2,7 +2,7 @@
 
 Dataset preprocessing pada proyek ini dibuat dari Rice Image Dataset menggunakan script otomatisasi:
 
-* `automate_Sri_Ulan_Muharromi.py`
+* `automate_Sri_Ulan.py`
 
 Dataset hasil preprocessing tidak disertakan secara langsung dalam repository karena terdiri dari sekitar 75.000 file gambar dengan ukuran yang cukup besar. Dataset tersebut digunakan secara lokal untuk proses pelatihan dan evaluasi model machine learning.
 
